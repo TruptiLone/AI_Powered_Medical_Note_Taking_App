@@ -1,0 +1,134 @@
+[
+  {
+    "original_path": "Diagram Links.docx",
+    "sha256": "5dbc5b2db21635f912d47a13a0a3b7d20186dbce6cc42051d700b45cdc0de897",
+    "repository_path": null,
+    "disposition": "Local only: Lucidchart editing/invitation links; publish static diagrams instead of access-grant links."
+  },
+  {
+    "original_path": "Draft Presentation.pptx",
+    "sha256": "62aab877534a433ae0c5f31b28a9a4f7a157cd043753ff000b57163b67c64de8",
+    "repository_path": null,
+    "disposition": "Local only: early eight-slide summary; superseded by final report."
+  },
+  {
+    "original_path": "Final Medical Note-taking Application Project Report.docx",
+    "sha256": "d6e4c1e43036f71cfa6f1f42f9e2fdd21ebb2f6fdf143eb8462f7f13db25328a",
+    "repository_path": "docs/originals/final-project-report.docx",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "Final Project.pdf",
+    "sha256": "8e21342d3b82595a89177a88eed75d87085a3339360a59672dadbfb73cdd64ec",
+    "repository_path": null,
+    "disposition": "Local only: assignment brief, not the project report."
+  },
+  {
+    "original_path": "Gnatt chart ref for iteration 1.docx",
+    "sha256": "7622f66aef409fc418e54e891955f1e7e21f704b40261944473e6f74af9e9a25",
+    "repository_path": null,
+    "disposition": "Local only: working planning reference; includes 21-day versus four-week discrepancy."
+  },
+  {
+    "original_path": "Gnatt chart reference.docx",
+    "sha256": "dd301f10e0fd9659cfb948cbd28b76c01c3c094d0083ac4a12df9ca398fc6926",
+    "repository_path": null,
+    "disposition": "Local only: detailed working iteration/task reference; final report retained."
+  },
+  {
+    "original_path": "Group 2_ AI-Powered Medical Note Taking App.pptx",
+    "sha256": "0693a2f72c53236a77a0339007eedb7cefe88d7c0eee29b63b1d6f1e5eef7e17",
+    "repository_path": null,
+    "disposition": "Local only: 58-slide deck with substantial template/sample material."
+  },
+  {
+    "original_path": "ISAD Project Activity Diagram.png",
+    "sha256": "b068fde4bee33d9210784c247bdc49a2f15b4d5c28a67cc6f5f90f41d473cbc0",
+    "repository_path": "docs/diagrams/originals/consultation-activity.png",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "ISAD Project proposal 2.docx",
+    "sha256": "72bee3ff0b2f85bbe575b117ed82b9b143954e4a91fa2782153987ae5173f63d",
+    "repository_path": "docs/originals/medical-app-proposal.docx",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "ISAD Project proposal.docx",
+    "sha256": "c8a89462a2092fdb563cbeab0582e2aa6d28f718899788382026a22a76aceac0",
+    "repository_path": null,
+    "disposition": "Local only: unrelated EngageTrack student-engagement proposal despite filename."
+  },
+  {
+    "original_path": "Modified Diagrams.docx",
+    "sha256": "419799d9d197c561e787e0e6f472fac085d866d04e81f951f32b2d4af2e4377e",
+    "repository_path": "docs/originals/workflow-descriptions.docx",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "Part 2.docx",
+    "sha256": "4bcc7fa911301f3b5e53bef565c26485dc738b2806082ae1dffa40bafd4030e9",
+    "repository_path": null,
+    "disposition": "Local only: working requirements/UML drafting notes; final report retained."
+  },
+  {
+    "original_path": "Part 3 cost benefit analysis.docx",
+    "sha256": "5b035fd37d24005cbe224ce4b65122fe5e2386191c80eba46f165712dcbca6be",
+    "repository_path": null,
+    "disposition": "Local only: working financial assumptions and drafting notes; discrepancies discussed in roadmap."
+  },
+  {
+    "original_path": "Presentation/Group 2_ AI-Powered Medical Note Taking App.pptx.pdf",
+    "sha256": "f56527ce029c2d47ddd8b77f6a752c5dcba08a962c5d7030e6f536ef02aafccd",
+    "repository_path": null,
+    "disposition": "Local only: 68-page presentation export with project pages and extensive template material; not a PDF of the final report."
+  },
+  {
+    "original_path": "Presentation/Group 2_ AI-Powered Medical Note Taking App.pptx.pptx",
+    "sha256": "1fb528a593372c5e6aab6620e64c348f1f625a46b7ff06acefca9f8a5c811f92",
+    "repository_path": null,
+    "disposition": "Local only: 17-slide academic presentation; report and extracted original diagrams provide the curated evidence."
+  },
+  {
+    "original_path": "Project Iteration Schedule.docx",
+    "sha256": "181a4972f359c9a246bd0d580b51bd0fa6db3971567c0bf44b6805610c816130",
+    "repository_path": "docs/originals/iteration-schedule.docx",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "Project Tasks.docx",
+    "sha256": "2cc76f5301f1bb4d6c17f5db751696cd653c7662bbbd7c6e080ee7b1d556f7bf",
+    "repository_path": null,
+    "disposition": "Local only: two early meeting/planning reminders."
+  },
+  {
+    "original_path": "Project Use Case diagram (1).png",
+    "sha256": "82aa156a064a5b47d6c82a9ca5ce6fe52f36b4dd5938ed44d8eea65484c9da0c",
+    "repository_path": "docs/diagrams/originals/use-cases.png",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "Project network diagram.docx",
+    "sha256": "8659d98f3b8018ea528a04035b0e490e145167a174d4e466fc2d6aabd66b96ed",
+    "repository_path": "docs/originals/project-network.docx",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "Reference for Domain model class diagram.docx",
+    "sha256": "c79835a953b18da4e845f5e0ad6616dfd9665d2a486640cdb3c7c12f9f500629",
+    "repository_path": "docs/originals/domain-model-notes.docx",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "SSD Diagram.png",
+    "sha256": "d0adc308906909bfa219aa2dafb30c40c799ead2fb3cd60d2bb80dcf3741b1ce",
+    "repository_path": "docs/diagrams/originals/system-sequence.png",
+    "disposition": "Preserved unchanged in repository."
+  },
+  {
+    "original_path": "Untitled document.docx",
+    "sha256": "90a1c0257eeb2873445b59240ac0da537f648ac7391340b3182491942f589a6c",
+    "repository_path": null,
+    "disposition": "Local only: early idea/discussion message, not evidence of implementation."
+  }
+]
